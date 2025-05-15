@@ -1,5 +1,5 @@
 # Challenge-Alura-Store
-!([https://github.com/EliseMalvaoCarlson/Challenge-Alura-Store/blob/main/Logo%20Alura%20Store.webp)
+![Logo Alura](https://github.com/EliseMalvaoCarlson/Challenge-Alura-Store/blob/main/Logo%20Alura.png?raw=true)
 
 Praticando Python Data Science Challenge Alura Store
 

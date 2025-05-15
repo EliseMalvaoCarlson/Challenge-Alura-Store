@@ -11,7 +11,7 @@ média de avaliação dos clientes, produtos mais e menos vendidos e custo médi
 Com base nos dados coletados e processados, serão gerados insights estratégicos para otimizar a operação da empresa.
 
 ## 🏗️ Estrutura do Projeto
-O repositório está organizado da seguinte forma:
+
 
 
 

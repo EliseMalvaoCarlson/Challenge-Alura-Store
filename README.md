@@ -40,10 +40,20 @@ Abaixo, um exemplo de gráfico gerado durante a análise:
 
 
 
-## 🚀 Instruções para Executar o Notebook
-1. Clone este repositório para sua máquina:
-   ```bash
-   git clone https://github.com/seu_usuario/alura-store.git
+## 🚀 Instruções para fazer uma cópia date Notebook 
+Acesse o GitHub e entre no repositório que contém o notebook que deseja copiar.
+
+Localize o notebook dentro da estrutura do repositório.
+
+Clique no arquivo do notebook para abrir sua visualização.
+
+Na parte superior direita, clique em "Download raw file" ou "Download".
+
+Escolha um local no seu computador para salvar o arquivo.
+
+Abra o Jupyter Notebook (caso tenha instalado) e navegue até o local onde salvou o arquivo.
+
+Clique no notebook para abri-lo e começar a trabalhar.
 
 
 

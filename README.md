@@ -36,7 +36,8 @@ Algumas das principais descobertas incluem:
 
 Abaixo, um exemplo de gráfico gerado durante a análise:
 
-![Exemplo de gráfico]Alura Store.jpg)
+![Exemplo de gráfico](Alura Store.jpg)
+
 
 ## 🚀 Instruções para Executar o Notebook
 1. Clone este repositório para sua máquina:

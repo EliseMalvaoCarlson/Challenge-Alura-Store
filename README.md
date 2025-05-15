@@ -36,7 +36,7 @@ Algumas das principais descobertas incluem:
 
 Abaixo, um exemplo de gráfico gerado durante a análise:
 
-![Exemplo de gráfico](Alura Store.jpg)
+!(Alura Store.jpg)
 
 
 ## 🚀 Instruções para Executar o Notebook

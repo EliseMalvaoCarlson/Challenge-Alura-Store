@@ -1,5 +1,5 @@
 # Challenge-Alura-Store
-![Exemplo de gráfico](https://github.com/EliseMalvaoCarlson/Challenge-Alura-Store/blob/main/Alura%20Store.jpg?raw=true)
+!([https://github.com/EliseMalvaoCarlson/Challenge-Alura-Store/blob/main/Logo%20Alura%20Store.webp)
 
 Praticando Python Data Science Challenge Alura Store
 

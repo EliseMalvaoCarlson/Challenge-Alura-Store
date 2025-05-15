@@ -1,4 +1,6 @@
 # Challenge-Alura-Store
+![Exemplo de gráfico](https://github.com/EliseMalvaoCarlson/Challenge-Alura-Store/blob/main/Alura%20Store.jpg?raw=true)
+
 Praticando Python Data Science Challenge Alura Store
 
 # 📊 Alura Store - Análise de Dados

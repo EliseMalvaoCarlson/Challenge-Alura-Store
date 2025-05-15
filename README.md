@@ -12,6 +12,17 @@ Com base nos dados coletados e processados, serão gerados insights estratégico
 
 ## 🏗️ Estrutura do Projeto
 
+- Importação da biblioteca pandas.
+- Dowload dos arquivos csv.
+- Tratamento dos dados.
+- Análise das métricas
+  - Analise de faturamento + gráfico
+  - Vendas por categoria
+  - Média de avaliação da lojas + gráfico
+  - Produtos mais e menos vendidos por loja + gráfico
+  - Frete médio por loja
+- Relatório 
+
 
 
 
